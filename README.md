@@ -10,6 +10,7 @@ A passionate developer with a keen interest in web development and data analysis
 My goal is to continuously learn and adapt, embracing new technologies and methodologies to enhance my development skills and contribute to innovative projects. Feel free to explore my projects, offer feedback, or connect with me for collaboration opportunities!
 
 <br>
+<br>
 
 <div align=center>
 
@@ -26,3 +27,13 @@ My goal is to continuously learn and adapt, embracing new technologies and metho
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React JS"  alt="React JS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="55" height="55"/> |
 
 </div>
+
+<br>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+</div>
+
+
