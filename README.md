@@ -32,7 +32,7 @@ My goal is to continuously learn and adapt, embracing new technologies and metho
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mostafa-ehab22/mostafa-ehab22/output/github-contribution-grid-snake.svg" />
   
 </div>
 
