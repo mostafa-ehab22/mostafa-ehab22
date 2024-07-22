@@ -5,7 +5,7 @@
 </h1>
 
 
-A passionate developer with a keen interest in web development and data analysis. I've discovered a profound interest in programming and its potential to solve real-world problems. My journey in coding began with JavaScript and has expanded to include React, Python and much more!
+A passionate developer with a keen interest in web development. I've discovered a profound interest in programming and its potential to solve real-world problems. My journey in coding began with JavaScript and has expanded to include React, Python and much more!
 
 My goal is to continuously learn and adapt, embracing new technologies and methodologies to enhance my development skills and contribute to innovative projects. Feel free to explore my projects, offer feedback, or connect with me for collaboration opportunities!
 
