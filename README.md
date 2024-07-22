@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mostafa-ehab22.mostafa-ehab22" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Mostafa+Ehab+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Mostafa+Ehab+👨🏼‍💻;" />
 </h1>
 
 
@@ -14,7 +14,7 @@ My goal is to continuously learn and adapt, embracing new technologies and metho
 
 <div align=center>
 
-## 🛠️ Languages and Technologies ⚒️
+## ⚒️ Languages and Technologies 🛠️
 
 ### Languages:
 | Python | JS | C# |
