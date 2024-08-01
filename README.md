@@ -34,7 +34,7 @@ My goal is to continuously learn and adapt, embracing new technologies and metho
 
 <div align=center>
     <h3>Connect with me!</h3>
-    <a href="www.linkedin.com/in/mostafaaehab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile" height="25" width="40" /></a>
+    <a href="www.linkedin.com/in/mostafa-ehab-0bb5712b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile" height="25" width="40" /></a>
 
 </div>
 
