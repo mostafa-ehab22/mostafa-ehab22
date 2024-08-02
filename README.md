@@ -14,7 +14,7 @@ My goal is to continuously learn and adapt, embracing new technologies and metho
 
 <div align=center>
 
-## ⚒️ Languages and Technologies 🛠️
+# ⚒️ Languages and Technologies 🛠️
 
 ### Languages:
 | Python | JS | C# |
