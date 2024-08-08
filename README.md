@@ -24,7 +24,7 @@ My goal is to continuously learn and adapt, embracing new technologies and metho
 ### Frameworks and Tools:
 | React JS | Next JS | Node JS | Git | Pytest |
 |----------|----------|----------|----------|----------|
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React JS"  alt="React JS" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next JS" alt="Next JS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="55" height="55"/> |
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React JS"  alt="React JS" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next JS" alt="Next JS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="43"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="55" height="55"/> |
 
 </div>
 
