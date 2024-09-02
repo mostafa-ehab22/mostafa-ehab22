@@ -10,7 +10,7 @@ A passionate developer with a keen interest in web development. I've discovered 
 My goal is to continuously learn and adapt, embracing new technologies and methodologies to enhance my development skills and contribute to innovative projects. Feel free to explore my projects, offer feedback, or connect with me for collaboration opportunities!
 
 <br>
-<br>
+
 
 <div align=center>
 
