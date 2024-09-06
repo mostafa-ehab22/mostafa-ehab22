@@ -31,8 +31,9 @@ My goal is to continuously learn and adapt, embracing new technologies and metho
 
 <div align=center>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mostafa-ehab22&theme=dark&hide_border=false)<br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-ehab22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-ehab22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br><br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mostafa-ehab22&theme=dark&hide_border=false)
+
 
 </div>
 
