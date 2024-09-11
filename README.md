@@ -22,7 +22,7 @@ Feel free to explore my repositories, share your thoughts or reach out for colla
   <a href="mailto:mostafaehab0002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/mostafaaehab" target="_blank">
+  <a href="https://www.linkedin.com/in/mostafaaehab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 <!--   <a href="" target="_blank">
@@ -60,5 +60,3 @@ Feel free to explore my repositories, share your thoughts or reach out for colla
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mostafa-ehab22&theme=dark&hide_border=false)
 
 </div>
-
-
