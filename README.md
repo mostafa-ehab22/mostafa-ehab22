@@ -49,8 +49,6 @@ Feel free to explore my repositories, share your thoughts or reach out for colla
 </div>
 
 <br/>
-<br/>
-<br/>
 
 <!-- Stats -->
 # 🔥 Stats and Activity 🚀
