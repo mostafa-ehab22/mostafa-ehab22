@@ -37,12 +37,12 @@ Feel free to explore my repositories, share your thoughts or reach out for colla
 
 # ⚒️  Technologies  🛠️
 
-### Languages:
+### Languages
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,cs,c"/><br>
 </div>
 
-### Frameworks and Tools:
+### Frameworks and Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs,mongodb"/><br>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git" /><br>
