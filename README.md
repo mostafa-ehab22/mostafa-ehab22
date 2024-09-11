@@ -54,7 +54,7 @@ Feel free to explore my repositories, share your thoughts or reach out for colla
 <br/>
 
 <!-- Stats -->
-# 📊 Stats and Activity 🚀
+# 🔥 Stats and Activity 🚀
 <br/>
 
 <div align=center>
