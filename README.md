@@ -60,3 +60,5 @@ Feel free to explore my repositories, share your thoughts or reach out for colla
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mostafa-ehab22&theme=dark&hide_border=false)
 
 </div>
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mostafa-ehab22/mostafa-ehab22/output/github-contribution-grid-snake.svg" />
