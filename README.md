@@ -35,7 +35,7 @@ Feel free to explore my repositories, share your thoughts or reach out for colla
 <!-- Languages & Technologies -->
 <div align=center>
 
-# ⚒️ Technologies 🛠️
+# ⚒️  Technologies  🛠️
 
 ### Languages:
 <div align="center">
