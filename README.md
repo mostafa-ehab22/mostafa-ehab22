@@ -42,7 +42,7 @@ Feel free to explore my repositories, share your thoughts or reach out for colla
     <img src="https://skillicons.dev/icons?i=python,javascript,cs"/><br>
 </div>
 
-### Frameworks & Tools:
+### Frameworks and Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs,mongodb"/><br>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git" /><br>
