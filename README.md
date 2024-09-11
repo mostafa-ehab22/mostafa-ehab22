@@ -31,6 +31,7 @@ Feel free to explore my repositories, share your thoughts or reach out for colla
 -->
 </div>
 
+<hr>
 <br/>
 
 <!-- Languages & Technologies -->
@@ -39,9 +40,9 @@ Feel free to explore my repositories, share your thoughts or reach out for colla
 # ⚒️ Languages and Technologies 🛠️
 
 ### Languages:
-| Python | JS | C# |
-|----------|----------|----------|
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp"  alt="csharp" width="55" height="55"/> |
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,javascript,cs"/><br>
+</div>
 
 ### Frameworks and Tools:
 <div align="center">
@@ -49,8 +50,9 @@ Feel free to explore my repositories, share your thoughts or reach out for colla
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git" /><br>
 </div>
 
-<br>
-<br>
+<br/>
+<hr>
+<br/>
 <br>
 
 <!-- Stats -->
