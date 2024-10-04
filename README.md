@@ -39,7 +39,7 @@ Feel free to explore my repositories, share your thoughts or reach out for colla
 
 ### Languages
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,cs,c"/><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,cs,c,java"/><br>
 </div>
 
 ### Frameworks and Tools
