@@ -23,7 +23,7 @@ Feel free to explore my repositories, share your thoughts or reach out for colla
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/mostafaaehab" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.credly.com/users/mostafa-ehab22" target="_blank">
      <img src="https://img.shields.io/badge/Credly-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
