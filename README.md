@@ -44,8 +44,8 @@ Feel free to explore my repositories, share your thoughts or reach out for colla
 
 ### Frameworks and Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,aws,express,mongodb,sqlite"/><br>
-    <img src="https://skillicons.dev/icons?i=html,css,vite,tailwind,bootstrap,git" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,aws,express,linux,opencv"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vite,tailwind,git,sqlite,mongodb" /><br>
 </div>
 
 <br/>
