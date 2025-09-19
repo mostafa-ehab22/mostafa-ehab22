@@ -9,7 +9,7 @@
 </h1>
 
 <!-- Introduction -->
-Writing my first lines of JavaScript showed me how code could transform ideas into impactful solutions. Since then, my journey has expanded to embrace modern technologies like React.js, Python, cloud platforms, and AI—continuously exploring the evolving world of software engineering.
+Writing my first lines of JavaScript showed me how code could transform ideas into impactful solutions. Since then, my journey has expanded to embrace modern technologies like Python, cloud platforms, and AI—continuously exploring the evolving world of software engineering.
 
 I'm in this for the long haul—committed to mastering new skills, whether I’m developing scalable web solutions, enhancing software quality through rigorous testing or building intelligent applications with AI. My focus remains on creating efficient and innovative systems that blend technology with creativity.
 
