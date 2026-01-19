@@ -11,7 +11,7 @@
 <!-- Introduction -->
 My journey in software engineering began with a single line of JavaScript, a moment that revealed code's power to transform ideas into reality. Since then, I've expanded my toolkit across Python, cloud platforms, and AI, driven by curiosity and a commitment to continuous learning.
 
-I'm building for the long haul: developing scalable web applications, ensuring quality through comprehensive testing, and creating intelligent systems that push boundaries. My work sits at the intersection of . My focus remains on creating efficient and innovative systems that blend technical excellence with creative problem-solving.
+I'm building for the long haul: developing scalable web applications, ensuring quality through comprehensive testing, and creating intelligent systems that push boundaries. My focus remains on creating efficient and innovative systems that blend technical excellence with creative problem-solving.
 
 Feel free to explore my repositories, share your thoughts or reach out for collaboration opportunities! 🚀
 
