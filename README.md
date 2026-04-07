@@ -57,7 +57,7 @@ Feel free to explore my repositories, share your thoughts or reach out for colla
 <div align=center>
     
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-sigma.vercel.app?user=mostafa-ehab22&theme=dark" alt="GitHub Streak" /></a> <br><br>
-![](https://github-profile-trophy-sigma-one.vercel.app/?username=mostafa-ehab22&theme=onedark&row=1&column=5)
+![](https://github-profile-trophy-sigma-one.vercel.app/?username=mostafa-ehab22&theme=darkhub&row=1&column=5)
     
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/mostafa-ehab22?ext=activity&border=2&radius=20) <br><br> -->
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa-ehab22&row=1&column=5&theme=darkhub&no-frame=true" alt="Mostafa's Trophies" /></a> -->
