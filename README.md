@@ -10,7 +10,7 @@
 
 <!-- Introduction -->
 Started with a single line of code. The curiosity never stopped there. It pulled me through hardware, software, and the cloud, one rabbit hole at a time. The most interesting problems, I found, live where disciplines collide.
-Some paths were planned. Most weren't. All of them were worth it.
+<br> Some paths were planned. Most weren't. All of them were worth it.
 
 <br/>
 
