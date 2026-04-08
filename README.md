@@ -9,9 +9,7 @@
 </h1>
 
 <!-- Introduction -->
-Started with a single line of code. The curiosity never stopped there. It pulled me through hardware, software, and the cloud, one rabbit hole at a time.
-
-Feel free to explore my repositories, share your thoughts or reach out for collaboration opportunities! 🚀
+Started with a single line of code. The curiosity never stopped there. It pulled me through hardware, software, and the cloud, one rabbit hole at a time. Some paths were planned. Most weren't. All of them were worth it.
 
 <br/>
 
