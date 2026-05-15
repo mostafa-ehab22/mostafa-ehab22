@@ -36,7 +36,7 @@ Started with a single line of code. The curiosity never stopped there. It pulled
 
 ### Languages
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,cs,c,cpp,java"/><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,cs,c,cpp"/><br>
 </div>
 
 ### Frameworks and Tools
