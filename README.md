@@ -41,8 +41,8 @@ Started with a single line of code. The curiosity never stopped there. It pulled
 
 ### Frameworks and Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,aws,express,linux,opencv"/><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vite,tailwind,git,sqlite,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=ros,opencv,aws,linux,raspberrypi,matlab"/><br>
+    <img src="https://skillicons.dev/icons?i=cypress,arduino,docker,git&theme=light"/>
 </div>
 
 <br/>
