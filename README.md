@@ -42,7 +42,7 @@ Started with a single line of code. The curiosity never stopped there. It pulled
 ### Frameworks and Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ros,opencv,aws,linux,raspberrypi,matlab"/><br>
-    <img src="https://skillicons.dev/icons?i=cypress,arduino,docker,git&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=cypress,arduino,git,docker,kubernetes&theme=light"/>
 </div>
 
 <br/>
