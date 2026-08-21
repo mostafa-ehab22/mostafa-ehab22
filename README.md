@@ -25,9 +25,9 @@ Started with a single line of code. The curiosity never stopped there. It pulled
   <a href="https://www.credly.com/users/mostafa-ehab22" target="_blank">
      <img src="https://img.shields.io/badge/Credly-FF5722?style=for-the-badge&logo=credly&logoColor=white" target="_blank" /> 
   </a>
-  <a href="https://trailblazer.me/id/mostafaehab" target="_blank">
+  <!-- <a href="https://trailblazer.me/id/mostafaehab" target="_blank">
    <img src="https://img.shields.io/badge/☁️_Salesforce-0091D5?style=for-the-badge&color=0091D5" target="_blank" />
-  </a>
+  </a> -->
 <br/>
 
 <!-- Languages & Technologies -->
