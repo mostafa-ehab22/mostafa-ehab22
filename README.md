@@ -30,6 +30,7 @@ Started with a single line of code. The curiosity never stopped there. It pulled
   </a>
 
 <br/>
+<br/>
 
 <!-- Languages & Technologies -->
 <div align=center>
