@@ -28,6 +28,18 @@ Started with a single line of code. The curiosity never stopped there. It pulled
   <a href="https://trailblazer.me/id/mostafaehab" target="_blank">
    <img src="https://img.shields.io/badge/🌨️_Salesforce-0091D5?style=for-the-badge&color=0091D5" target="_blank" />
   </a>
+
+
+<br/>
+<a href="https://www.linkedin.com/in/mostafaaehab" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" target="_blank" />
+  </a>
+  <a href="https://www.credly.com/users/mostafa-ehab22" target="_blank">
+     <img src="https://img.shields.io/badge/Credly-FF5722?style=for-the-badge" target="_blank" /> 
+  </a>
+  <a href="https://trailblazer.me/id/mostafaehab" target="_blank">
+   <img src="https://img.shields.io/badge/Salesforce-0091D5?style=for-the-badge&color=0091D5" target="_blank" />
+  </a>
 <br/>
 
 <!-- Languages & Technologies -->
