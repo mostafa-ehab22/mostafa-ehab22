@@ -26,7 +26,7 @@ Started with a single line of code. The curiosity never stopped there. It pulled
      <img src="https://img.shields.io/badge/Credly-FF5722?style=for-the-badge&logo=credly&logoColor=white" height="24" width="89" target="_blank" /> 
   </a>
   <a href="https://trailblazer.me/id/mostafaehab" target="_blank">
-   <img src="https://img.shields.io/badge/☁️ Trailhead-0091D5?style=for-the-badge&color=0091D5" height="24" width="90" target="_blank" />
+   <img src="https://img.shields.io/badge/⛰️ Trailhead-0091D5?style=for-the-badge&color=0091D5" height="24" width="90" target="_blank" />
   </a>
 
 <br/>
