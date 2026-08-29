@@ -20,13 +20,13 @@ Started with a single line of code. The curiosity never stopped there. It pulled
     <img src="https://img.shields.io/badge/Gmail-C5221F?style=for-the-badge&logo=gmail&logoColor=white" height="24" />
   </a> -->
   <a href="https://www.linkedin.com/in/mostafaaehab" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=logmein&logoColor=white" height="24" width="99" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=logmein&logoColor=white" height="24" width="80" target="_blank" />
   </a>
   <a href="https://www.credly.com/users/mostafa-ehab22" target="_blank">
-     <img src="https://img.shields.io/badge/Credly-FF5722?style=for-the-badge&logo=credly&logoColor=white" height="24" width="99" target="_blank" /> 
+     <img src="https://img.shields.io/badge/Credly-FF5722?style=for-the-badge&logo=credly&logoColor=white" height="24" width="80" target="_blank" /> 
   </a>
   <a href="https://trailblazer.me/id/mostafaehab" target="_blank">
-   <img src="https://img.shields.io/badge/🌨️ Salesforce-0091D5?style=for-the-badge&color=0091D5" height="24" width="99" target="_blank" />
+   <img src="https://img.shields.io/badge/🌨️ Salesforce-0091D5?style=for-the-badge&color=0091D5" height="24" width="89" target="_blank" />
   </a>
 
 <br/>
